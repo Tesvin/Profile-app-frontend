@@ -3,7 +3,8 @@ import jwt_decode from 'jwt-decode';
 
 
 //axios.defaults.baseURL = 
-const BASE_URL ="http://localhost:8080/api/"
+// const BASE_URL ="http://localhost:8080/api/"
+const BASE_URL ="https://profileapp-f16r.onrender.com/api/"
 
 
 /** Make API Requests */

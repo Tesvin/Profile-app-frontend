@@ -4,7 +4,9 @@ import { getUsername } from '../helper/helper'
 
 //axios.defaults.baseURL = process.env.REACT_APP_SERVER_DOMAIN;
 
-const BASE_URL ="http://localhost:8080/api/"
+
+const BASE_URL ="https://profileapp-f16r.onrender.com/api/"
+// const BASE_URL ="http://localhost:8080/api/"
 
 /** custom hook */
 export default function useFetch(query){
